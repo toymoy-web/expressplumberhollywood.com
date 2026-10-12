@@ -1,1 +1,27 @@
-# Intentionally empty. Cloudflare Pages resolves clean URLs and slug/index.html natively.
+# Renamed blog slugs only. Cloudflare Pages resolves clean URLs natively.
+/blog/water-meter-running-with-everything-off/ /blog/water-meter-running-with-everything-off-hollywood-fl/ 301
+/blog/water-meter-running-with-everything-off /blog/water-meter-running-with-everything-off-hollywood-fl/ 301
+/blog/condo-water-leak-who-pays-florida/ /blog/condo-water-leak-who-pays-hollywood-fl/ 301
+/blog/condo-water-leak-who-pays-florida /blog/condo-water-leak-who-pays-hollywood-fl/ 301
+/blog/does-homeowners-insurance-cover-plumbing-leaks-florida/ /blog/homeowners-insurance-plumbing-leaks-hollywood-fl/ 301
+/blog/does-homeowners-insurance-cover-plumbing-leaks-florida /blog/homeowners-insurance-plumbing-leaks-hollywood-fl/ 301
+/blog/garbage-disposal-and-septic-system-what-to-know/ /blog/garbage-disposal-septic-system-hollywood-fl/ 301
+/blog/garbage-disposal-and-septic-system-what-to-know /blog/garbage-disposal-septic-system-hollywood-fl/ 301
+/blog/how-long-does-a-water-heater-last-south-florida/ /blog/how-long-water-heater-lasts-hollywood-fl/ 301
+/blog/how-long-does-a-water-heater-last-south-florida /blog/how-long-water-heater-lasts-hollywood-fl/ 301
+/blog/how-to-find-main-water-shutoff-valve-florida/ /blog/find-main-water-shutoff-valve-hollywood-fl/ 301
+/blog/how-to-find-main-water-shutoff-valve-florida /blog/find-main-water-shutoff-valve-hollywood-fl/ 301
+/blog/low-water-pressure-one-faucet-vs-whole-house/ /blog/low-water-pressure-hollywood-fl/ 301
+/blog/low-water-pressure-one-faucet-vs-whole-house /blog/low-water-pressure-hollywood-fl/ 301
+/blog/mobile-home-plumbing-leaks-under-the-skirting/ /blog/mobile-home-plumbing-leaks-hollywood-fl/ 301
+/blog/mobile-home-plumbing-leaks-under-the-skirting /blog/mobile-home-plumbing-leaks-hollywood-fl/ 301
+/blog/prepare-plumbing-before-a-hurricane-south-florida/ /blog/prepare-plumbing-for-hurricane-hollywood-fl/ 301
+/blog/prepare-plumbing-before-a-hurricane-south-florida /blog/prepare-plumbing-for-hurricane-hollywood-fl/ 301
+/blog/sewage-smell-in-house-causes-florida/ /blog/sewage-smell-in-house-hollywood-fl/ 301
+/blog/sewage-smell-in-house-causes-florida /blog/sewage-smell-in-house-hollywood-fl/ 301
+/blog/toilet-shower-backing-up-during-storm-florida/ /blog/toilet-backing-up-in-storm-hollywood-fl/ 301
+/blog/toilet-shower-backing-up-during-storm-florida /blog/toilet-backing-up-in-storm-hollywood-fl/ 301
+/blog/water-heater-leaking-from-bottom/ /blog/water-heater-leaking-from-bottom-hollywood-fl/ 301
+/blog/water-heater-leaking-from-bottom /blog/water-heater-leaking-from-bottom-hollywood-fl/ 301
+/blog/what-is-a-sewer-cleanout-and-where-is-it/ /blog/sewer-cleanout-where-is-it-hollywood-fl/ 301
+/blog/what-is-a-sewer-cleanout-and-where-is-it /blog/sewer-cleanout-where-is-it-hollywood-fl/ 301
